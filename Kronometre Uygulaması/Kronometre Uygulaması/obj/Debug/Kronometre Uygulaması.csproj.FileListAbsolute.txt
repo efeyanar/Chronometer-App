@@ -1,0 +1,22 @@
+C:\Users\user\source\repos\Kronometre Uygulaması\Kronometre Uygulaması\bin\Debug\Kronometre Uygulaması.exe.config
+C:\Users\user\source\repos\Kronometre Uygulaması\Kronometre Uygulaması\bin\Debug\Kronometre Uygulaması.exe
+C:\Users\user\source\repos\Kronometre Uygulaması\Kronometre Uygulaması\bin\Debug\Kronometre Uygulaması.pdb
+C:\Users\user\source\repos\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre_Uygulaması.Form1.resources
+C:\Users\user\source\repos\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre_Uygulaması.Properties.Resources.resources
+C:\Users\user\source\repos\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.exe
+C:\Users\user\source\repos\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.pdb
+E:\Algoritma\Kronometre Uygulaması\Kronometre Uygulaması\bin\Debug\Kronometre Uygulaması.exe.config
+E:\Algoritma\Kronometre Uygulaması\Kronometre Uygulaması\bin\Debug\Kronometre Uygulaması.exe
+E:\Algoritma\Kronometre Uygulaması\Kronometre Uygulaması\bin\Debug\Kronometre Uygulaması.pdb
+E:\Algoritma\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.csproj.AssemblyReference.cache
+E:\Algoritma\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.csproj.SuggestedBindingRedirects.cache
+E:\Algoritma\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre_Uygulaması.Form1.resources
+E:\Algoritma\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre_Uygulaması.Properties.Resources.resources
+E:\Algoritma\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.csproj.GenerateResource.cache
+E:\Algoritma\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.csproj.CoreCompileInputs.cache
+E:\Algoritma\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.exe
+E:\Algoritma\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.pdb
